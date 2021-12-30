@@ -1,7 +1,7 @@
-package com.platzi.market.domain.service;
+package com.market.domain.service;
 
-import com.platzi.market.domain.Purchase;
-import com.platzi.market.domain.repository.PurchaseRepository;
+import com.market.domain.Purchase;
+import com.market.domain.repository.PurchaseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

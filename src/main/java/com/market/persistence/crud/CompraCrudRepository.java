@@ -1,6 +1,6 @@
-package com.platzi.market.persistence.crud;
+package com.market.persistence.crud;
 
-import com.platzi.market.persistence.entity.Compra;
+import com.market.persistence.entity.Compra;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

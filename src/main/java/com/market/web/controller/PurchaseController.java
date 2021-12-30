@@ -1,7 +1,7 @@
-package com.platzi.market.web.controller;
+package com.market.web.controller;
 
-import com.platzi.market.domain.Purchase;
-import com.platzi.market.domain.service.PurchaseService;
+import com.market.domain.Purchase;
+import com.market.domain.service.PurchaseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.platzi.market.domain;
+package com.market.domain;
 
 public class Category {
     private int categoryId;

@@ -1,4 +1,4 @@
-package com.platzi.market.persistence.entity;
+package com.market.persistence.entity;
 
 import javax.persistence.*;
 

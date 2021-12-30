@@ -1,6 +1,6 @@
 package com.market.domain.dto;
 
-public class Authenticationrequest {
+public class AuthenticationRequest {
     private String username;
     private String password;
 
