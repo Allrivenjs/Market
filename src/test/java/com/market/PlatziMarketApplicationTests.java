@@ -1,10 +1,10 @@
-package com.primiparos.market;
+package com.platzi.market;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MarketApplicationTests {
+class PlatziMarketApplicationTests {
 
 	@Test
 	void contextLoads() {
